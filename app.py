@@ -1,4 +1,5 @@
 # # #imports
+# chatterbot-1.0.2
 from flask import Flask, render_template, request
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
